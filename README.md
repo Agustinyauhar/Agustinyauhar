@@ -5,7 +5,7 @@
 Sobre mí
 Soy un entusiasta del desarrollo web y estoy emocionado de aprender nuevas tecnologías y conceptos para construir proyectos interesantes y útiles. Mi objetivo es mejorar mis habilidades y contribuir al mundo del desarrollo web de manera significativa.
 
-Actualmente he realizado los cursos de desarrollador web (HTML y CSS) y de JavaScrip de CoderHouse. Hoy por hoy estoy aprendiendo React Js
+Actualmente he realizado los cursos de desarrollador web (HTML y CSS), de JavaScrip y React Js de CoderHouse. Hoy por hoy estoy cursando la Tecnicatura Universitaria en Programacion en la UTN sede de Mar del Plata
 <!---
 Agustinyauhar/Agustinyauhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
